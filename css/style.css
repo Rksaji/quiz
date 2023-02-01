@@ -1,0 +1,68 @@
+.full-body{
+ 
+    background-color: rgb(137, 235, 235);
+}
+.progress-bar{
+    color: rgb(116, 237, 209);
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+ .form{
+    background-color: aliceblue;
+  padding: 40px;
+    height: 600px;
+    width: 600px;
+    border: 5px solid rgb(250, 239, 239);
+    text-align: center;
+  position: absolute;
+  top: o;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin:auto;
+
+ }
+ .activate{
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(234, 228, 219);
+    text-align: left;
+ }
+ .provide{
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(234, 228, 219);
+    text-align: left;
+    margin-top: 10px;
+
+ }
+ .personally{
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(234, 228, 219);
+    text-align: left;
+    margin-top: 10px;
+ }
+ .massive{
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgb(234, 228, 219);
+    text-align: left;
+    margin-top: 10px;
+ }
+ .next-button{
+   color: #4CAF50;
+ }
+ .clock-img{
+   width: 100px;
+   height:100px;
+ }
+ 
